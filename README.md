@@ -1,3 +1,2 @@
 # test_java_syntaxis
-testing OOP, generics, unmodifiableList, enum and other basic constructions
-This is a project where I tested and tried how Java language works
+This is a project where I tested and tried how Java language works: OOP, generic-classes, unmodifiableList, enum and other basic constructions.
